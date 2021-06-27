@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 76a277d0581d5b049b1f396732fd046e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rufina
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44a96fe9f89de294aaf0ba3420085a9c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
